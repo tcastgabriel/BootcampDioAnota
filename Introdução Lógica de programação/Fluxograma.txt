@@ -1,0 +1,2 @@
+Fluxograma é uma documentação dos passos necessários para a execução de um processo qualquer.
+

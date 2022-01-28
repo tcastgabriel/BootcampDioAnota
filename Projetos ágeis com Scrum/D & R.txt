@@ -1,0 +1,3 @@
+Refinamento = todo time Scrum (um passo antes da planning)
+
+Review = PO E O SM TEM QUE ESTAR PRESENTE. (VER O QUE FOI ENTREGUE E VALIDAR)

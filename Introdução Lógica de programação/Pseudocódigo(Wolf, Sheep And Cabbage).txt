@@ -1,0 +1,13 @@
+INICIO DO JOGO:
+
+ovelha entra, ovelha atravessa
+
+Barco anda, repolho entra, repolho atravessa
+
+Barco anda, ovelha entra novamente e volta ao inicio
+
+Barco anda, deixa ovelha e Lobo entra, Lobo atravessa
+
+Barco anda e ovelha entra novamente e atravessa
+
+FIM DO JOGO

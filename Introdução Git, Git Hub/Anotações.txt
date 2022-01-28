@@ -1,0 +1,14 @@
+Git clone "Link do repositorio"
+
+cd "navegar entre as pastas"
+
+Git Status
+
+Git add . "Adiciona os arquivos, repositorio local"
+
+Git commit -m " mensagem "
+
+Git push origin main "Enviando todos os commits locais pra nuvem"
+
+
+ 

@@ -1,0 +1,5 @@
+Maior: >
+
+Menor: <
+
+Comparação: ==

@@ -1,0 +1,6 @@
+Variáveis: É um objeto (uma posição, frequentemente localizada na memória),
+capaz de reter e representar um valor ou expressão.
+
+Também pode ser o espaço na memória do computador,
+destinado a um dado que é alterado durante a execução do algoritmo. 
+

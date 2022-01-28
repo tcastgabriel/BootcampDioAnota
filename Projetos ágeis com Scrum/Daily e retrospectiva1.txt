@@ -1,0 +1,3 @@
+Daily = Time desenvolvimento
+
+Retro = Time de desenvolvimento e o SM

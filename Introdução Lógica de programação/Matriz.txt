@@ -1,0 +1,5 @@
+Matriz é uma coleção de variaveis de mesmo tipo acessiveis com um único nome e armazenados contiguamente na memória.
+
+indices = individualização de casa variável de um vetor. (tabela, linhas e colunas) 
+
+Vetores são matrizes de uma só dimensão

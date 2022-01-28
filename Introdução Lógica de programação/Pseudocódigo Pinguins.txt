@@ -1,0 +1,13 @@
+INICIO DO JOGO
+
+Pingu F blue entra com Pingu pai blue, Atravessa e pingu pai desce.
+
+Pingu F blue volta e pingu f green entra, Atravessa, pingu f blue desce.
+
+Pingu F green volta e pingu pai green entra. Atravessa, pingu pai  green desce.
+
+Pingu F green volta e pingu f red entra. Atravessa, pingu f green desce.
+
+Pingu F red volta e pingu pai red entra. Atravessa e ambos descem. 
+
+FIM DO JOGO!

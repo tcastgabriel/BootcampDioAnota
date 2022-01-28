@@ -1,0 +1,7 @@
+Blobs : sendo o bloco básico de composição (sha1)
+
+Tree : armazenando e apontando para  blobs diferentes, (guarda o nome do arquvio)
+
+Commit : é o objeto que aponta para uma arvore, para um parente, para o autor  e mensagem.
+
+(timestamp / quando foi criado)  também possuem sha1 cripitação  hash de 40 caracteres.

@@ -1,0 +1,9 @@
+Nota1 = 5
+Nota2 = 7
+Nota3 = 10
+Nota4 = 3
+
+Numero de alunos: 4
+
+
+total de notas = 25/4 = 6.25 média de notas 6,25
